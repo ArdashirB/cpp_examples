@@ -1,0 +1,21 @@
+[{
+  "file": "D:\\Clemson\\cpp_ws\\example_array_operations\\main.cpp",
+  "directory": "D:\\Clemson\\cpp_ws\\example_array_operations",
+  "command": "clang  -c D:\\Clemson\\cpp_ws\\example_array_operations\\main.cpp -o D:\\Clemson\\cpp_ws\\example_array_operations\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Clemson\\cpp_ws\\in_and_out\\main.cpp",
+  "directory": "D:\\Clemson\\cpp_ws\\in_and_out",
+  "command": "clang  -c D:\\Clemson\\cpp_ws\\in_and_out\\main.cpp -o D:\\Clemson\\cpp_ws\\in_and_out\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Clemson\\cpp_ws\\vector_operations\\main.cpp",
+  "directory": "D:\\Clemson\\cpp_ws\\vector_operations",
+  "command": "clang  -c D:\\Clemson\\cpp_ws\\vector_operations\\main.cpp -o D:\\Clemson\\cpp_ws\\vector_operations\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Clemson\\cpp_ws\\sum_of_product_of_pairs_in_vec\\main.cpp",
+  "directory": "D:\\Clemson\\cpp_ws\\sum_of_product_of_pairs_in_vec",
+  "command": "clang  -c D:\\Clemson\\cpp_ws\\sum_of_product_of_pairs_in_vec\\main.cpp -o D:\\Clemson\\cpp_ws\\sum_of_product_of_pairs_in_vec\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Clemson\\cpp_ws\\reverse_a_number\\main.cpp",
+  "directory": "D:\\Clemson\\cpp_ws\\reverse_a_number",
+  "command": "clang  -c D:\\Clemson\\cpp_ws\\reverse_a_number\\main.cpp -o D:\\Clemson\\cpp_ws\\reverse_a_number\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]

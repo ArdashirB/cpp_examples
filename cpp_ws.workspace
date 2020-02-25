@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cpp_ws" Database="" Version="10.0.0">
+  <VirtualDirectory Name="Udemy_cpp_folder">
+    <Project Name="in_and_out" Path="in_and_out/in_and_out.project" Active="Yes"/>
+  </VirtualDirectory>
+  <Project Name="reverse_a_number" Path="reverse_a_number/reverse_a_number.project" Active="No"/>
+  <Project Name="example_array_operations" Path="example_array_operations/example_array_operations.project" Active="No"/>
+  <Project Name="sum_of_product_of_pairs_in_vec" Path="sum_of_product_of_pairs_in_vec/sum_of_product_of_pairs_in_vec.project" Active="No"/>
+  <Project Name="vector_operations" Path="vector_operations/vector_operations.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="in_and_out" ConfigName="Debug"/>
+      <Project Name="reverse_a_number" ConfigName="Debug"/>
+      <Project Name="example_array_operations" ConfigName="Debug"/>
+      <Project Name="sum_of_product_of_pairs_in_vec" ConfigName="Debug"/>
+      <Project Name="vector_operations" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="in_and_out" ConfigName="Release"/>
+      <Project Name="reverse_a_number" ConfigName="Release"/>
+      <Project Name="example_array_operations" ConfigName="Release"/>
+      <Project Name="sum_of_product_of_pairs_in_vec" ConfigName="Release"/>
+      <Project Name="vector_operations" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
